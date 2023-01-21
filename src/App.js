@@ -8,7 +8,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload. - test-test-test!!!
-		<h1>good stuff!</h1>
+		<h1>This is my first app deployed to AWS Amplify</h1>
+		<h1>Pretty freaking cool!!!</h1>
         </p>
         <a
           className="App-link"

@@ -2,7 +2,7 @@
 
 * Get started
 * Keep going
-* Finish
+* TBD
 
 ## Available Scripts
 
